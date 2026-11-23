@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Derivado regenerable (lo crea el notebook en la fase 3)
+data/heart_disease.db
+
+# Sistema
+Thumbs.db
+.DS_Store
+.idea/
